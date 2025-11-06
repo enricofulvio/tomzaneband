@@ -1,0 +1,5 @@
+{
+  "name": "Steampunk Countdown Gauge",
+  "description": "A steampunk-themed countdown timer with a pressure gauge interface, ticking down to a fictional launch event. Features decorative gears and a stylized call-to-action.",
+  "requestFramePermissions": []
+}
